@@ -7,3 +7,4 @@ it will send it to the client by signal using `kill` command.
 The server will get the signal and transform it into a `char` using division.
 it will do the same thing for every `char` in the sentence sent.
 
+⚠️ We can't use `printf` function so I used mine i wrote eralier in the cursus.
